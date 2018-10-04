@@ -1,0 +1,2 @@
+Program with AAUSAT JTAG key with
+openocd -f aausat_jtagkey_swd.cfg -f target/stm32f4x.cfg -c "program miniblink.elf verify reset exit"

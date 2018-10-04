@@ -1,0 +1,9 @@
+This is based on ve3ewwg's stm 32f103c8t6 and ported to stm32f407vgt
+
+	make 
+
+	make flash
+
+We have provided an example 'miniblink' more to come.
+
+
